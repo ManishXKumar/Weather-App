@@ -1,5 +1,5 @@
 # Weather-App
-Minor Project
+* Minor Project
 
 ## I used open weather API to fetch data 
 
